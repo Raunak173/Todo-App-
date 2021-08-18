@@ -65,11 +65,11 @@ const styles = StyleSheet.create({
   },
   content: {
     flex: 1,
-    padding: 40,
+    padding: '10%',
     backgroundColor: 'pink'
   },
   list: {
     flex: 1,
-    marginTop: 20,
+    marginTop: '2%',
   },
 });
